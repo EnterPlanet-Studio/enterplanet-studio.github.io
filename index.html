@@ -3,17 +3,20 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>EnterPlane Studio Official Website</title>
+        <title>EnterPlanet Studio Official Website</title>
         <meta name="description" content="description"/>
-        <link rel="stylesheet" href="res/stylesheet.css"/>
+        <link rel="stylesheet" href="/res/stylesheet.css"/>
+        <script type="module" src='/res/html-include-element.js'></script>
+
     </head>
     <body>
-        <embed src="header.html" height="115px"/>
+        <html-include src="/header.html"></html-include>
         <div class="content">
             <div>
                 <p>Fish</p>
+                <a>example</a>
             </div>
         </div>
-        <embed src="footer.html"/>
+        <html-include src="/footer.html"></html-include>
     </body>
 </html>
