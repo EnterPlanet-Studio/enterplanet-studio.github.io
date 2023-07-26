@@ -1,10 +1,20 @@
-body embed {
-    width: 100%;
+body {
+    margin: 0 3px 0 3px;
+}
+.content div {
+    margin: 0 10px 0 10px;
 }
 a {
-    color: blue;
+    color: #0000ff;
     text-decoration: none;
     border-bottom: 1px dashed;
+    cursor: pointer;
+}
+a:hover {
+    color: #00009f;
+}
+a {
+
 }
 cool-a {
     display: inline-block;
