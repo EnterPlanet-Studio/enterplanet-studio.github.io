@@ -1,6 +1,11 @@
 body embed {
     width: 100%;
 }
+a {
+    color: blue;
+    text-decoration: none;
+    border-bottom: 1px dashed;
+}
 cool-a {
     display: inline-block;
     background: #efefef;
