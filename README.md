@@ -6,4 +6,4 @@ html-include-element - https://github.com/justinfagnani/html-include-elFiles
 
 simple-icons - https://github.com/simple-icons/simple-icons
 
-Ionicons - https://mkll.github.io/
+Ionicons - https://ionic.io/ionicons
