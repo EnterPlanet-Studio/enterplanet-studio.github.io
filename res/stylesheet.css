@@ -12,6 +12,8 @@
 body {
     margin: 0 3px 0 3px;
     font-family: "Ubuntu", "Arial", sans-serif;
+    background-color: #171717;
+    color: #fff;
 }
 .content div {
     margin: 0 10px 0 10px;
@@ -44,7 +46,7 @@ a:hover {
 
 .abtn:focus {
     outline: none;
-    box-shadow: 0 0 0 4px #cbd6ee;
+    box-shadow: 0 0 0 4px #000063;
 }
 .abtn img {
     display: inline-block;
