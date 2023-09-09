@@ -66,3 +66,7 @@ a[href^="ftp://"]:not([href*="enterplanet-studio.github.io"]):not(.abtn):after
     height: 25px;
     margin-right: 0.25rem;
 }
+img {
+    border-radius: 7px;
+    max-width: 100%;
+}
